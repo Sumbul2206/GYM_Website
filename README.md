@@ -1,1 +1,1 @@
-# GYM_Website
+# GymWebsite.github.io
